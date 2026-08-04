@@ -17,9 +17,9 @@ This repository documents my progress through **Angela Yu's 100 Days of Code: Th
 ```
 100-days-of-python/
 │
-├── Day01/
-├── Day02/
-├── Day03/
+├── Day01-Band-Name-Generator/
+├── Day02-Tip-Calculator/
+├── Day03-Treasure-Island/
 ...
 ├── Day100/
 ```
