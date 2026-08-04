@@ -1,0 +1,37 @@
+# 100 Days of Python
+
+Welcome to my Python learning journey!
+
+This repository documents my progress through **Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp**.
+
+## Goals
+
+- Strengthen my Python programming skills
+- Build practical projects
+- Develop consistent coding habits
+- Learn software engineering best practices
+- Build a professional GitHub portfolio
+
+## Repository Structure
+
+```
+100-days-of-python/
+│
+├── Day01/
+├── Day02/
+├── Day03/
+...
+├── Day100/
+```
+
+Each folder contains:
+
+- source code
+- notes
+- lessons learned
+
+## Progress
+
+| Day | Topic | Status |
+|----:|-------|:------:|
+| 1 | Band Name Generator | ⏳ |
