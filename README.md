@@ -32,6 +32,10 @@ Each folder contains:
 
 ## Progress
 
-| Day | Topic | Status |
-|----:|-------|:------:|
-| 1 | Band Name Generator | ⏳ |
+| Day | Project | Status |
+|:---:|---------|:------:|
+| 1 | Band Name Generator | ✅ Completed |
+| 2 | Tip Calculator | ✅ Completed |
+| 3 | Treasure Island | 🚧 In Progress |
+| 4 | Rock Paper Scissors | ⏳ Not Started |
+| 5 | Password Generator | ⏳ Not Started |
