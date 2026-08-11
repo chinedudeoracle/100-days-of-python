@@ -37,8 +37,8 @@ Each folder contains:
 | 1 | Band Name Generator | ✅ Completed |
 | 2 | Tip Calculator | ✅ Completed |
 | 3 | Treasure Island | ✅ Completed |
-| 4 | Rock Paper Scissors | 🚧 In Progress |
-| 5 | Password Generator | ⏳ Not Started |
+| 4 | Rock Paper Scissors | ✅ Completed |
+| 5 | Password Generator | 🚧 In Progress |
 | 6 | Escaping the Maze | ⏳ Not Started |
 | 7 | Hangman Game | ⏳ Not Started |
 | 8 | Caesar Cipher | ⏳ Not Started |
