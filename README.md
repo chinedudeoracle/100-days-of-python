@@ -39,6 +39,6 @@ Each folder contains:
 | 3 | Treasure Island | ✅ Completed |
 | 4 | Rock Paper Scissors | ✅ Completed |
 | 5 | Password Generator | ✅ Completed |
-| 6 | Escaping the Maze | 🚧 In Progress |
-| 7 | Hangman Game | ⏳ Not Started |
+| 6 | Escaping the Maze | ✅ Completed |
+| 7 | Hangman Game | 🚧 In Progress |
 | 8 | Caesar Cipher | ⏳ Not Started |
