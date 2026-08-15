@@ -40,5 +40,7 @@ Each folder contains:
 | 4 | Rock Paper Scissors | ✅ Completed |
 | 5 | Password Generator | ✅ Completed |
 | 6 | Escaping the Maze | ✅ Completed |
-| 7 | Hangman Game | 🚧 In Progress |
-| 8 | Caesar Cipher | ⏳ Not Started |
+| 7 | Hangman Game | ✅ Completed  |
+| 8 | Caesar Cipher | 🚧 In Progress |
+| 9 | Silent Auction Program | ⏳ Not Started |
+| 10 | Calculator | ⏳ Not Started |
