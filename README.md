@@ -41,6 +41,6 @@ Each folder contains:
 | 5 | Password Generator | ✅ Completed |
 | 6 | Escaping the Maze | ✅ Completed |
 | 7 | Hangman Game | ✅ Completed  |
-| 8 | Caesar Cipher | 🚧 In Progress |
-| 9 | Silent Auction Program | ⏳ Not Started |
+| 8 | Caesar Cipher | ✅ Completed |
+| 9 | Silent Auction Program | 🚧 In Progress |
 | 10 | Calculator | ⏳ Not Started |
