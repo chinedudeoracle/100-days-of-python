@@ -43,8 +43,8 @@ Each folder contains:
 | 7 | Hangman Game | ✅ Completed  |
 | 8 | Caesar Cipher | ✅ Completed |
 | 9 | Silent Auction Program | ✅ Completed |
-| 10 | Calculator | 🚧 In Progress |
-| 11 | Blackjack Game | ⏳ Not Started |
+| 10 | Calculator | ✅ Completed |
+| 11 | Blackjack Game | 🚧 In Progress |
 | 12 | Number Guessing Game | ⏳ Not Started |
 | 13 | Debugging | ⏳ Not Started |
 | 14 | The Higher Lower Game | ⏳ Not Started |
