@@ -42,5 +42,9 @@ Each folder contains:
 | 6 | Escaping the Maze | ✅ Completed |
 | 7 | Hangman Game | ✅ Completed  |
 | 8 | Caesar Cipher | ✅ Completed |
-| 9 | Silent Auction Program | 🚧 In Progress |
-| 10 | Calculator | ⏳ Not Started |
+| 9 | Silent Auction Program | ✅ Completed |
+| 10 | Calculator | 🚧 In Progress |
+| 11 | Blackjack Game | ⏳ Not Started |
+| 12 | Number Guessing Game | ⏳ Not Started |
+| 13 | Debugging | ⏳ Not Started |
+| 14 | The Higher Lower Game | ⏳ Not Started |
