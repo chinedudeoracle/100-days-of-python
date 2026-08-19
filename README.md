@@ -44,7 +44,7 @@ Each folder contains:
 | 8 | Caesar Cipher | ✅ Completed |
 | 9 | Silent Auction Program | ✅ Completed |
 | 10 | Calculator | ✅ Completed |
-| 11 | Blackjack Game | 🚧 In Progress |
-| 12 | Number Guessing Game | ⏳ Not Started |
+| 11 | Blackjack Game | ✅ Completed |
+| 12 | Number Guessing Game | 🚧 In Progress |
 | 13 | Debugging | ⏳ Not Started |
 | 14 | The Higher Lower Game | ⏳ Not Started |
