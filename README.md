@@ -45,6 +45,13 @@ Each folder contains:
 | 9 | Silent Auction Program | ✅ Completed |
 | 10 | Calculator | ✅ Completed |
 | 11 | Blackjack Game | ✅ Completed |
-| 12 | Number Guessing Game | 🚧 In Progress |
-| 13 | Debugging | ⏳ Not Started |
+| 12 | Number Guessing Game | ✅ Completed |
+| 13 | Debugging | 🚧 In Progress |
 | 14 | The Higher Lower Game | ⏳ Not Started |
+| 15 | The Coffee Machine | ⏳ Not Started |
+| 16 | OOP Coffee Machine | ⏳ Not Started |
+| 17 | The Quiz Project | ⏳ Not Started |
+| 18 | The Turtle Challenge | ⏳ Not Started |
+| 19 | The Turtle Race | ⏳ Not Started |
+| 20 | The Snake Game Part 1  | ⏳ Not Started |
+| 20 | The Snake Game Part 2  | ⏳ Not Started |
