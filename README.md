@@ -47,8 +47,8 @@ Each folder contains:
 | 11 | Blackjack Game | ✅ Completed |
 | 12 | Number Guessing Game | ✅ Completed |
 | 13 | Debugging | ✅  Completed |
-| 14 | The Higher Lower Game | 🚧 In Progress |
-| 15 | The Coffee Machine | ⏳ Not Started |
+| 14 | The Higher Lower Game | ✅  Completed |
+| 15 | The Coffee Machine | 🚧 In Progress |
 | 16 | OOP Coffee Machine | ⏳ Not Started |
 | 17 | The Quiz Project | ⏳ Not Started |
 | 18 | The Turtle Challenge | ⏳ Not Started |
