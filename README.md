@@ -48,8 +48,8 @@ Each folder contains:
 | 12 | Number Guessing Game | ✅ Completed |
 | 13 | Debugging | ✅  Completed |
 | 14 | The Higher Lower Game | ✅  Completed |
-| 15 | The Coffee Machine | 🚧 In Progress |
-| 16 | OOP Coffee Machine | ⏳ Not Started |
+| 15 | The Coffee Machine | ✅  Completed |
+| 16 | OOP Coffee Machine | 🚧 In Progress |
 | 17 | The Quiz Project | ⏳ Not Started |
 | 18 | The Turtle Challenge | ⏳ Not Started |
 | 19 | The Turtle Race | ⏳ Not Started |
