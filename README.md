@@ -50,8 +50,8 @@ Each folder contains:
 | 14 | The Higher Lower Game | ✅  Completed |
 | 15 | The Coffee Machine | ✅  Completed |
 | 16 | OOP Coffee Machine | ✅  Completed |
-| 17 | The Quiz Project | 🚧 In Progress |
-| 18 | The Turtle Challenge | ⏳ Not Started |
+| 17 | The Quiz Project | ✅  Completed |
+| 18 | The Turtle Challenge | 🚧 In Progress |
 | 19 | The Turtle Race | ⏳ Not Started |
 | 20 | The Snake Game Part 1  | ⏳ Not Started |
 | 21 | The Snake Game Part 2  | ⏳ Not Started |
