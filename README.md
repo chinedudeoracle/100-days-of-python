@@ -51,7 +51,7 @@ Each folder contains:
 | 15 | The Coffee Machine | ✅  Completed |
 | 16 | OOP Coffee Machine | ✅  Completed |
 | 17 | The Quiz Project | ✅  Completed |
-| 18 | The Turtle Challenge | 🚧 In Progress |
-| 19 | The Turtle Race | ⏳ Not Started |
+| 18 | The Hirst Painting | ✅  Completed |
+| 19 | The Turtle Race | 🚧 In Progress |
 | 20 | The Snake Game Part 1  | ⏳ Not Started |
 | 21 | The Snake Game Part 2  | ⏳ Not Started |
