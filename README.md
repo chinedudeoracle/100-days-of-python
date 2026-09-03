@@ -53,5 +53,5 @@ Each folder contains:
 | 17 | The Quiz Project | ✅  Completed |
 | 18 | The Hirst Painting | ✅  Completed |
 | 19 | The Turtle Race | ✅  Completed |
-| 20 | The Snake Game Part 1  | 🚧 In Progress |
-| 21 | The Snake Game Part 2  | ⏳ Not Started |
+| 20 | The Snake Game Part 1  | ✅  Completed |
+| 21 | The Snake Game Part 2  | 🚧 In Progress |
