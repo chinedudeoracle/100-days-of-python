@@ -54,4 +54,11 @@ Each folder contains:
 | 18 | The Hirst Painting | ✅  Completed |
 | 19 | The Turtle Race | ✅  Completed |
 | 20 | The Snake Game Part 1  | ✅  Completed |
-| 21 | The Snake Game Part 2  | 🚧 In Progress |
+| 21 | The Snake Game Part 2  | ✅  Completed |
+| 22 | Pong: The Famous Arcade Game  | 🚧 In Progress |
+| 23 | The Turtle Crossing  | ⏳ Not Started |
+| 24 | Files, Directories and Paths  | ⏳ Not Started |
+| 25 | Working with CSV Data and the Pandas Library  | ⏳ Not Started |
+| 26 | List Comprehension and the Nato Alphabet  | ⏳ Not Started |
+| 27 | Tkinter, *args, **kwargs and Creating GUI Programs  | ⏳ Not Started |
+| 28 | Tkinter, Dynamic Typing and the Pomodoro GUI Application  | ⏳ Not Started |
