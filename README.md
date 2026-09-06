@@ -55,8 +55,8 @@ Each folder contains:
 | 19 | The Turtle Race | ✅  Completed |
 | 20 | The Snake Game Part 1  | ✅  Completed |
 | 21 | The Snake Game Part 2  | ✅  Completed |
-| 22 | Pong: The Famous Arcade Game  | 🚧 In Progress |
-| 23 | The Turtle Crossing  | ⏳ Not Started |
+| 22 | Pong: The Pong Game  | ✅  Completed |
+| 23 | The Turtle Crossing  | 🚧 In Progress |
 | 24 | Files, Directories and Paths  | ⏳ Not Started |
 | 25 | Working with CSV Data and the Pandas Library  | ⏳ Not Started |
 | 26 | List Comprehension and the Nato Alphabet  | ⏳ Not Started |
