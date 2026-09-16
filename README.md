@@ -59,6 +59,6 @@ Each folder contains:
 | 23 | The Turtle Crossing  | ✅  Completed |
 | 24 | Files, Directories and Paths  | ✅  Completed |
 | 25 | Working with CSV Data and the Pandas Library  | ✅  Completed |
-| 26 | List Comprehension and the Nato Alphabet  | 🚧 In Progress |
-| 27 | Tkinter, *args, **kwargs and Creating GUI Programs  | ⏳ Not Started |
+| 26 | List Comprehension and the Nato Alphabet  | ✅  Completed |
+| 27 | Tkinter, *args, **kwargs and Creating GUI Programs  | 🚧 In Progress |
 | 28 | Tkinter, Dynamic Typing and the Pomodoro GUI Application  | ⏳ Not Started |
