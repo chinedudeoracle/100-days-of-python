@@ -61,4 +61,15 @@ Each folder contains:
 | 25 | Working with CSV Data and the Pandas Library  | ✅  Completed |
 | 26 | List Comprehension and the Nato Alphabet  | ✅  Completed |
 | 27 | Tkinter, *args, **kwargs and Creating GUI Programs  | ✅  Completed |
-| 28 | Tkinter, Dynamic Typing and the Pomodoro GUI Application  | 🚧 In Progress |
+| 28 | Pomodoro GUI Application  | ✅  Completed |
+| 29 | Building a Password Manager GUI App with Tkinter | 🚧 In Progress |
+| 30 | Errors, Exceptions and JSON Data: Improving the Password Manager | ⏳ Not Started |
+| 31 | Flash Card App Capstone Project | ⏳ Not Started |
+| 32 | Send Email (smtplib) & Manage Dates (datetime) | ⏳ Not Started |
+| 33 | API Endpoints & API Parameters - ISS Overhead Notifier | ⏳ Not Started |
+| 34 | API Practice - Creating a GUI Quiz App | ⏳ Not Started |
+| 35 | Keys, Authentication & Environment Variables - Telegram Rain Notifier | ⏳ Not Started |
+| 36 | Stock Trading News Alert Project | ⏳ Not Started |
+| 37 | Habit Tracking Project: API Post Requests & Headers | ⏳ Not Started |
+| 38 | Workout Tracking Using Google Sheets | ⏳ Not Started |
+| 39 | Capstone Part 1: Flight Deal Finder | ⏳ Not Started |
