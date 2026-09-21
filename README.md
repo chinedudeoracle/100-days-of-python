@@ -62,8 +62,8 @@ Each folder contains:
 | 26 | List Comprehension and the Nato Alphabet  | ✅  Completed |
 | 27 | Tkinter, *args, **kwargs and Creating GUI Programs  | ✅  Completed |
 | 28 | Pomodoro GUI Application  | ✅  Completed |
-| 29 | Building a Password Manager GUI App with Tkinter | 🚧 In Progress |
-| 30 | Errors, Exceptions and JSON Data: Improving the Password Manager | ⏳ Not Started |
+| 29 | Building a Password Manager GUI App with Tkinter | ✅  Completed |
+| 30 | Errors, Exceptions and JSON Data: Improving the Password Manager | 🚧 In Progress |
 | 31 | Flash Card App Capstone Project | ⏳ Not Started |
 | 32 | Send Email (smtplib) & Manage Dates (datetime) | ⏳ Not Started |
 | 33 | API Endpoints & API Parameters - ISS Overhead Notifier | ⏳ Not Started |
