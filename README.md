@@ -64,8 +64,8 @@ Each folder contains:
 | 28 | Pomodoro GUI Application  | ✅ Completed |
 | 29 | Building a Password Manager GUI App with Tkinter | ✅ Completed |
 | 30 | Errors, Exceptions and JSON Data: Improving the Password Manager | ✅ Completed |
-| 31 | Flash Card App Capstone Project | 🚧 In Progress |
-| 32 | Send Email (smtplib) & Manage Dates (datetime) | ⏳ Not Started |
+| 31 | Flash Card App Capstone Project | ✅ Completed |
+| 32 | Send Email (smtplib) & Manage Dates (datetime) | 🚧 In Progress |
 | 33 | API Endpoints & API Parameters - ISS Overhead Notifier | ⏳ Not Started |
 | 34 | API Practice - Creating a GUI Quiz App | ⏳ Not Started |
 | 35 | Keys, Authentication & Environment Variables - Telegram Rain Notifier | ⏳ Not Started |
