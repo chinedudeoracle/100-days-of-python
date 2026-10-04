@@ -1,0 +1,39 @@
+name: Birthday Wisher
+
+on:
+  schedule:
+    # 06:00 UTC daily (≈ 07:00 in Nigeria, WAT)
+    - cron: '0 6 * * *'
+  workflow_dispatch:   # enables the "Run workflow" button for manual testing
+
+jobs:
+  send-birthday-email:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas google-auth google-auth-oauthlib google-api-python-client
+
+      - name: Write credentials.json from secret
+        working-directory: ./Day32-Send-Email-smtplib-And-Manage-Dates-datetime
+        run: echo '${{ secrets.GMAIL_CREDENTIALS }}' > credentials.json
+
+      - name: Write token.json from secret
+        working-directory: ./Day32-Send-Email-smtplib-And-Manage-Dates-datetime
+        run: echo '${{ secrets.GMAIL_TOKEN }}' > token.json
+
+      - name: Run birthday wisher
+        working-directory: ./Day32-Send-Email-smtplib-And-Manage-Dates-datetime
+        env:
+          MY_EMAIL: ${{ secrets.MY_EMAIL }}
+        run: python main.py

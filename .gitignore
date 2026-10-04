@@ -2,11 +2,17 @@
 __pycache__/
 *.py[cod]
 *.pyo
+*.egg-info/
+.pytest_cache/
 
 # Virtual environments
 .venv/
 venv/
 env/
+
+# Secrets
+credentials.json
+token.json
 
 # VS Code
 .vscode/
