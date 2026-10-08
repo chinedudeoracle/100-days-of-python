@@ -66,8 +66,8 @@ Each folder contains:
 | 30 | Errors, Exceptions and JSON Data: Improving the Password Manager | ✅ Completed |
 | 31 | Flash Card App Capstone Project | ✅ Completed |
 | 32 | Send Email (smtplib) & Manage Dates (datetime) | ✅ Completed |
-| 33 | API Endpoints & API Parameters - ISS Overhead Notifier | 🚧 In Progress |
-| 34 | API Practice - Creating a GUI Quiz App | ⏳ Not Started |
+| 33 | API Endpoints & API Parameters - ISS Overhead Notifier | ✅ Completed |
+| 34 | API Practice - Creating a GUI Quiz App | 🚧 In Progress |
 | 35 | Keys, Authentication & Environment Variables - Telegram Rain Notifier | ⏳ Not Started |
 | 36 | Stock Trading News Alert Project | ⏳ Not Started |
 | 37 | Habit Tracking Project: API Post Requests & Headers | ⏳ Not Started |
